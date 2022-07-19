@@ -8,7 +8,7 @@
 				<tr>
 					<th>Description</th>
 					<th>Target Date</th>
-					<th>Is it Done?</th>
+					<th>Completed or not?</th>
 					<th></th>
 					<th></th>
 				</tr>
